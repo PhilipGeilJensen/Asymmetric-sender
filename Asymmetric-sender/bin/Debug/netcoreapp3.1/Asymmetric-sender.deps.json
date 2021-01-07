@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Asymmetric-sender/1.0.0": {
+        "runtime": {
+          "Asymmetric-sender.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Asymmetric-sender/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
